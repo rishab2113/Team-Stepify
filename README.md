@@ -1,4 +1,4 @@
-# Stepify [![Build Status](https://travis-ci.org/rishab2113/Stepify.svg?branch=master)](https://travis-ci.org/rishab2113/Stepify)
+# Stepify
 
 # Inspiration
 Generally, the elderly and visually impaired people walk with someone by their side. But what if nobody is around to help? We were very concerned about the fact that help may not be always available so we wanted to make a positive impact on the elderly and visually impaired people. Nowadays, the elderly want to have independence and not always want people around to monitor them, so we also catered to their independence.   
